@@ -32,6 +32,13 @@ input[type="submit"], button[type="submit"] {
     
 }
 
+#login-form input {
+    height: 40px;
+}
+
+#login-form input[type=text], #login-form input[type=password] {
+    margin-bottom: 30px;
+}
 
 table.list th, .table-list-header {
     background-color: #E3CCF0;
