@@ -14,6 +14,13 @@
 	padding: 17px;
 }
 
+input[type="submit"], button[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+    background-color: #000;
+    height: 32px;
+    color: #fff;
+
 #login-form {
     margin: 5em auto 2em auto;
     padding: 20px;
