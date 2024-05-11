@@ -41,6 +41,12 @@ input[type="submit"], button[type="submit"] {
 #login-form input[type=text], #login-form input[type=password] {
     margin-bottom: 30px;
 }
+#login-form a.lost_password {
+    float: right;
+    font-weight: normal;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
 
 table.list th, .table-list-header {
     background-color: #cfcfcf;
