@@ -21,6 +21,17 @@
     flex-direction: row-reverse;
 }
 
+#user_login, #user_firstname, #user_lastname, #user_mail, #my_account_form select, #user_form select {
+    width: 90%;
+    height: 35px;
+    padding-bottom: 15px;
+}
+
+.tabular input, .tabular select {
+    max-width: 95%;
+    height: 35px;
+}
+
 input[type="submit"], button[type="submit"] {
     -webkit-appearance: button;
     cursor: pointer;
