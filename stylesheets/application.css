@@ -65,7 +65,7 @@ input[type="submit"], button[type="submit"] {
 }
 
 #login-form input {
-    height: 48px;
+    height: 38px;
 }
 
 #login-form input[type=text], #login-form input[type=password] {
