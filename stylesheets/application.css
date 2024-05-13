@@ -15,6 +15,12 @@
 	
 }
 
+#main {
+    flex-grow: 2;
+    display: ruby;
+    flex-direction: row-reverse;
+}
+
 input[type="submit"], button[type="submit"] {
     -webkit-appearance: button;
     cursor: pointer;
