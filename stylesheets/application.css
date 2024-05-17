@@ -66,10 +66,12 @@ input[type="submit"], button[type="submit"] {
     cursor: pointer;
     background-color: #000;
     height: 50px;
-    width: 150px;
+    width: 250px;
     color: #fff;
     
 }
+
+
 
 #login-form {
     margin: 5em auto 2em auto;
