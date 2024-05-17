@@ -71,6 +71,13 @@ input[type="submit"], button[type="submit"] {
     
 }
 
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    height: 30px;
+}
 
 
 #login-form {
