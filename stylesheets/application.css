@@ -15,8 +15,12 @@
 	color: #000;
 	font-weight: 600;
         font-family: 'Montserrat', sans-serif;
-	
-	
+
+
+#admin-menu a, a:link, a:visited {
+    color: #AEAEAE;
+    text-decoration: none;
+    
 }
 
 #content {
