@@ -16,6 +16,13 @@
 	font-weight: 600;
         font-family: 'Montserrat', sans-serif;
 
+.container-xxl{
+
+        margin-left: 55px !important;
+
+
+}
+
 
 #admin-menu a, a:link, a:visited {
     color: #AEAEAE;
