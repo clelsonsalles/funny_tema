@@ -17,8 +17,9 @@
         font-family: 'Montserrat', sans-serif;
 }
 
-.col-4-custom {
+ .col-4-custom {
       width: 18%;
+      background-color: white;
     }
 
 
