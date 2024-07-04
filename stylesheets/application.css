@@ -15,7 +15,11 @@
 	color: #000;
 	font-weight: 600;
         font-family: 'Montserrat', sans-serif;
+}
 
+.col-4-custom {
+      width: 18%;
+    }
 
 
 
