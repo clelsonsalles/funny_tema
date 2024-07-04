@@ -34,7 +34,8 @@
 #content {
     flex-grow: 1;
     background-color: #fff;
-    margin-right: 150px;
+    margin-right: 75px;
+    margin-left: 75px;
     padding: 10px 55px 10px 55px;
     overflow-x: auto;
 }
