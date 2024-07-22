@@ -32,14 +32,10 @@
         .btn-custom {
             background-color: #000; /* Preto */
             color: #fff; /* Branco */
-            width: 80px; /* Tamanho fixo */
-            text-align: center;
         }
         .btn-custom:hover {
-            background-color: #f8f9fa; /* Cinza claro */
-            color: #000; /* Preto */
+            background-color: #444; /* Preto mais claro no hover */
         }
-
 
 
 #header h1 {
