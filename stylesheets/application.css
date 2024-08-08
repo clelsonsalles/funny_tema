@@ -218,7 +218,7 @@ table.cal td.week-number {
 }
 
 #main-menu li a.selected, #main-menu li a.selected:hover {
-    background: #fff;
+    
     color: #555;
     border-radius: 10px;
 }
