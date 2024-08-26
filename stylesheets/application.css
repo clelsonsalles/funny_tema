@@ -38,13 +38,13 @@ input[type="submit"], button[type="submit"] {
  .selecao {
     text-transform: none;
     height: 45px;
-    width: 520px;
+    width: 280px;
 }
 
 button, select {
     text-transform: none;
     height: 45px;
-    width: 520px;
+    width: 280px;
 }
 
 .form-control {
