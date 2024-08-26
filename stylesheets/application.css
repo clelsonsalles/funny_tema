@@ -35,6 +35,12 @@ input[type="submit"], button[type="submit"] {
     /* border: #000; */
 }
 
+ .selecao {
+    text-transform: none;
+    height: 45px;
+    width: 520px;
+}
+
 button, select {
     text-transform: none;
     height: 45px;
