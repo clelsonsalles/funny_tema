@@ -19,6 +19,18 @@
            border-bottom-right-radius: 8;
         }
 
+.box {
+    padding: 6px;
+    margin-bottom: 10px;
+    /* background-color: #fff; */
+    color: #505050;
+    line-height: 1.5em;
+    /* border: 1px solid #e4e4e4; */
+    word-wrap: break-word;
+    border-radius: 3px;
+    width: 500px;
+}
+
 
 
   .card-body {
