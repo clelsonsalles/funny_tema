@@ -4,7 +4,7 @@
 /* Customização Redmine */
 #top-menu {background: #000000; color: #f8f8f8; height:2.5em; font-size: 0.8em; padding: 4px 15px 4px 15px;}
 #top-menu a{ padding: 15px, 0px, opx, opx;}
-#header {min-height:5.3em;margin:0;background-color:#212529; color:#f8f8f8; padding: 4px 16px 20px 16px; position:relative;}
+#header {min-height:5.3em;margin:0;background-color:#212529; color:#fff; padding: 4px 16px 20px 16px; position:relative;}
 
 
 
