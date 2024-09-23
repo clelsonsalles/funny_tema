@@ -267,7 +267,7 @@ table.cal td.week-number {
 #main-menu li a.selected, #main-menu li a.selected:hover {
     
     color: #555;
-    border-radius: 10px;
+    
 }
 
 #project-jump .drdn-trigger {
