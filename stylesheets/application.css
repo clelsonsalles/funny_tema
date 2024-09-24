@@ -40,7 +40,7 @@
   .card-body {
     flex: 1 1 auto;
     background-color: #f3f3f3;	  
-    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+    padding: 8px;
     color: var(--bs-card-color);
 }
 
