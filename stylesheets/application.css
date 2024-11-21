@@ -216,6 +216,15 @@ input[type="submit"], button[type="submit"] {
     
 }
 
+button[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+    background-color: #212529;
+    height: 50px;
+    width: 75px;
+    color: #fff;
+}
+
 button, input, optgroup, select, textarea {
     margin: 0;
     font-family: inherit;
