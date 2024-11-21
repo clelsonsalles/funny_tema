@@ -209,7 +209,6 @@ p {
 input[type="submit"], button[type="submit"] {
     -webkit-appearance: button;
     cursor: pointer;
-    background-color: #5d5b5b;
     height: 50px;
     width: 250px;
     color: #fff;
