@@ -30,6 +30,23 @@ tbody, td, tfoot, th, thead, tr {
     font-size: 14px;
 }
 
+button[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+    background-color: #1d1e19
+    height: 50px;
+    width: 50px;
+    color: #fff;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    height: 45px;
+}
+
 
 
 .box {
