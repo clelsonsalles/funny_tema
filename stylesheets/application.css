@@ -94,10 +94,8 @@ button, input, optgroup, select, textarea {
 
 #login-form {
   
-    padding-top: 20px;
-    padding-left: 50px;
-    padding-bottom: 20px;
-    padding-right: 50px;
+    padding: 10px;
+    
     border: 1px solid #FFF; 
     background-color: #FFF; 
     border-radius: 4px;
