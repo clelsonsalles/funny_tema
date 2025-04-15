@@ -74,10 +74,13 @@ button, input, optgroup, select, textarea {
 
 
 #login-form {
-    
-    border: 1px solid #fff;
+  
+    padding: 20px;
    
-    
+    border: 1px solid #FFF; 
+    background-color: #FFF; 
+    border-radius: 4px;
+    box-sizing: border-box;
 }
 
 #login-form input {
@@ -121,8 +124,6 @@ tbody, td, tfoot, th, thead, tr {
     border-width: 0;
     font-size: 14px;
 }
-
-
 
 
 .box {
