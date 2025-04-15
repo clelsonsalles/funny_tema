@@ -117,8 +117,6 @@ button, input, optgroup, select, textarea {
 
 #login-form {
     margin: 5em auto 2em auto;
-    padding: 20px;
-    width: 540px;
     border: 1px solid #fff;
     height: 230px;
     background-color: #fff;
@@ -135,7 +133,6 @@ button, input, optgroup, select, textarea {
 #login-form a.lost_password {
     float: right;
     font-weight: normal;
-    margin-top: -20px;
     margin-bottom: 20px;
 }
 
