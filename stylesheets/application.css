@@ -39,6 +39,14 @@ button[type="submit"] {
     color: #fff;
 }
 
+#login-form {
+    margin: 5em auto 2em auto;
+    padding: 30px;
+    width: 340px;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
 button, input, optgroup, select, textarea {
     margin: 0;
     font-family: inherit;
