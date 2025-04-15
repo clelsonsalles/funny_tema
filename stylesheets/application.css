@@ -22,27 +22,6 @@ button, select {
     width: 250px;
 }
 
-.form-control {
-    display: block;
-    width: 100%;
-    padding: .375rem .75rem;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: var(--bs-body-color);
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    background-color: var(--bs-body-bg);
-    background-clip: padding-box;
-    border: var(--bs-border-width) solid var(--bs-border-color);
-    border-radius: var(--bs-border-radius);
-    height: 45px;
-    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-}
-
-
-
 .box {
     padding: 6px;
     margin-bottom: 10px;
@@ -95,9 +74,9 @@ button, input, optgroup, select, textarea {
 
 
 #login-form {
-    margin: 5em auto 2em auto;
+    
     border: 1px solid #fff;
-    background-color: #e2e1e1;
+   
     
 }
 
